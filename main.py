@@ -5,7 +5,7 @@ The program prints exactly one line about office life and nothing else.
 
 
 def main() -> None:
-    joke = "I told my calendar I needed focus time, so it booked me a meeting called 'Focus Time' with twelve people in it."
+    joke = "I told my calendar I needed focus time, so it booked me a meeting called 'Focus Time' with twelve people — and the first agenda item was scheduling another meeting."
     print(joke)
 
 
